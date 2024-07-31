@@ -389,3 +389,6 @@ As far as what the types are, the primitive types and reference types are object
 In the next video, I just want to quickly go over how those are stored in memory.
 
 0:00
+
+
+
