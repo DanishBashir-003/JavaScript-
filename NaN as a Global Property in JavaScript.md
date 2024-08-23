@@ -1,5 +1,3 @@
----
-
 ### NaN as a Global Property
 
 NaN is a global property in JavaScript, which means it is automatically available throughout your code without needing to be explicitly declared. This global availability is due to its association with the global object. In web browsers, the global object is the `window` object. This means that properties and methods that belong to the global object, like NaN, can be accessed directly from `window`, and by extension, from anywhere in your script.
