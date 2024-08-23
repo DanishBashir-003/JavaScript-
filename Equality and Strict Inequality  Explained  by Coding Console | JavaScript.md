@@ -1,4 +1,4 @@
-### Chapter: Mastering Type Coercion in JavaScript
+630 words ### Chapter: Mastering Type Coercion in JavaScript
 
 #### Understanding the Equality (`==`) and Strict Equality (`===`) Operators
 
